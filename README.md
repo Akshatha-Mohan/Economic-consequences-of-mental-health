@@ -1,5 +1,5 @@
 # Economic-consequences-of-mental-health
-Mental health plays a vital role in the economic development of a country. The importance of mental wellness is often ignored and overlooked; it is one of the most costly forms of sickness and can lead to a decline in the perpetual growth of a country. 
+Mental health plays a vital role in the economic development of a country. The importance of mental wellness is often ignored and overlooked; it is one of the most costly forms of sickness and can lead to a decline in perpetual growth of a country. 
 
 
 
