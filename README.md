@@ -3,7 +3,7 @@ Mental health plays a vital role in the economic development of a country. The i
 
 
 
-Poor mental health days refer to days when people describe their mental health as not good and could include conditions such as depression, anxiety, stress, and problems with emotions. In the project, the implications of mental health (measured in terms of ladder score) on the GDP of a country are visualized and analyzed. A linear regression model is employed; The simple linear regression is used to predict a quantitative outcome y based on one single predictor variable x. The goal is to build a mathematical model (or formula) that defines y as a function of the x variable. The Y-axis is taken as Log_GDP and X-axis as Ladder score, which helps in predicting the GDP of a country based on mental health. 
+Poor mental health days refer to days when people describe their mental health as not good and could include conditions such as depression, anxiety, stress and problems with emotions. In the project, the implications of mental health (measured in terms of ladder score) on the GDP of a country are visualized and analyzed. A linear regression model is employed; The simple linear regression is used to predict a quantitative outcome y based on one single predictor variable x. The goal is to build a mathematical model (or formula) that defines y as a function of the x variable. The Y-axis is taken as Log_GDP and X-axis as Ladder score, which helps in predicting the GDP of a country based on mental health. 
 
 
 
